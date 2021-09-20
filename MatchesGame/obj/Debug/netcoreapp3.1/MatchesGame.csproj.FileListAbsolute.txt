@@ -1,0 +1,15 @@
+C:\Users\xolil\source\repos\MatchesGame\MatchesGame\bin\Debug\netcoreapp3.1\MatchesGame.exe
+C:\Users\xolil\source\repos\MatchesGame\MatchesGame\bin\Debug\netcoreapp3.1\MatchesGame.deps.json
+C:\Users\xolil\source\repos\MatchesGame\MatchesGame\bin\Debug\netcoreapp3.1\MatchesGame.runtimeconfig.json
+C:\Users\xolil\source\repos\MatchesGame\MatchesGame\bin\Debug\netcoreapp3.1\MatchesGame.runtimeconfig.dev.json
+C:\Users\xolil\source\repos\MatchesGame\MatchesGame\bin\Debug\netcoreapp3.1\MatchesGame.dll
+C:\Users\xolil\source\repos\MatchesGame\MatchesGame\bin\Debug\netcoreapp3.1\MatchesGame.pdb
+C:\Users\xolil\source\repos\MatchesGame\MatchesGame\obj\Debug\netcoreapp3.1\MatchesGame.csproj.AssemblyReference.cache
+C:\Users\xolil\source\repos\MatchesGame\MatchesGame\obj\Debug\netcoreapp3.1\MatchesGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xolil\source\repos\MatchesGame\MatchesGame\obj\Debug\netcoreapp3.1\MatchesGame.AssemblyInfoInputs.cache
+C:\Users\xolil\source\repos\MatchesGame\MatchesGame\obj\Debug\netcoreapp3.1\MatchesGame.AssemblyInfo.cs
+C:\Users\xolil\source\repos\MatchesGame\MatchesGame\obj\Debug\netcoreapp3.1\MatchesGame.csproj.CoreCompileInputs.cache
+C:\Users\xolil\source\repos\MatchesGame\MatchesGame\obj\Debug\netcoreapp3.1\MatchesGame.dll
+C:\Users\xolil\source\repos\MatchesGame\MatchesGame\obj\Debug\netcoreapp3.1\MatchesGame.pdb
+C:\Users\xolil\source\repos\MatchesGame\MatchesGame\obj\Debug\netcoreapp3.1\MatchesGame.genruntimeconfig.cache
+C:\Users\xolil\source\repos\MatchesGame\MatchesGame\bin\Debug\netcoreapp3.1\AppData\List.csv
